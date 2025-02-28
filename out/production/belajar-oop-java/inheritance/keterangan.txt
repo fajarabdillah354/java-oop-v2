@@ -1,0 +1,3 @@
+ * inheritance adalah sebuah kemampuan menurunkan class lain atau yang biasa kita kenal dengan pewarisan. 1 class parent bisa diwariskan ke banyak child class sementara 1 child class hanya boleh memiliki 1 parent saja
+
+* saat terjadi penurunan maka semua field yang ada diclass parent bisa diakses di class childnya

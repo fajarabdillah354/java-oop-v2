@@ -1,0 +1,3 @@
+* method overriding adalah kemampuan mendeklarasikan ulang method di child class yang sudah ada di parent class
+
+* saat melakukan overriding maka method pertama yang ada di parent class sudah tidak bisa diakses lagi
